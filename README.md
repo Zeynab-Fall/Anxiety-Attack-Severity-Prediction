@@ -149,8 +149,8 @@ The results demonstate the difficulty of modeling mental health outcomes, where 
 - **Explore more advanced feature interactions** and test complex models (such as deep learning or ensemble stacking) to capture non-linear relationships.
 - **Collaborate with mental health professionals** to identify features that are clinically meaningful and not just statistically significant.
 - **Expand the dataset** by including a more diverse range of demographics to reduce potential biases.
-- **Investigate targeted interventions** that could help reduce the severity of anxiety attacks once high-risk individuals are identified.
-- **Refine feature selection** by further analyzing which predictors (such as physiological measures like heart rate) consistently contribute to prediction, while recognizing that features like occupation and gender contributed very little predictive value.
+- **Investigate targeted interventions** that could help reduce the severity of anxiety attacks once high risk individuals are identified.
+- **Refine feature selection** by further analyzing which predictors consistently contribute to prediction, while recognizing that features like occupation and gender contributed very little predictive value.
 
 The findings from this project reflect the challenges of predicting mental health outcomes but also prove the important starting points for future research combining psychology and data science.
 
