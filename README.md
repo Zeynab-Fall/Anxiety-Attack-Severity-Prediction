@@ -166,6 +166,6 @@ The following Python libraries were used in this project:
 
 ## About the Author
 
-I am Zeynab Fall. I am a senior at Belmont University majoring in Psychological Science and Data Science, graduating in May 2025. My academic focus is on applying data science techniques to better understand psychological outcomes. This project is part of my capstone work for DSC-4990: Data Science Project.  
+My name is Zeynab Fall. I am a senior at Belmont University majoring in Psychological Science and Data Science, graduating in May 2025. My academic focus is on applying data science techniques to better understand psychological outcomes. This project is part of my capstone work for DSC-4990: Data Science Project.  
 
 As I continue building my portfolio, I plan to add more projects that explore the intersection of psychology, health, and data analytics. This Anxiety Attack Severity Prediction project represents my first public project combining my interests in mental health and data science.
