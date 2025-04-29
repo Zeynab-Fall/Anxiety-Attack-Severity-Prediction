@@ -164,7 +164,7 @@ The following Python libraries were used in this project:
 - seaborn
 - scikit-learn
 
-  ## About the Author
+## About the Author
 
 I am Zeynab Fall. I am a senior at Belmont University majoring in Psychological Science and Data Science, graduating in May 2025. My academic focus is on applying data science techniques to better understand psychological outcomes. This project is part of my capstone work for DSC-4990: Data Science Project.  
 
